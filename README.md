@@ -1,1 +1,1 @@
-# NoDuplicate
+![NoDuplicate](/NoDuplicate.png)
